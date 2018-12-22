@@ -8,7 +8,7 @@ if [ $Determiner == "The" ]; then
 	
 	fi
 if [ $Determiner == "An" ]; then
-	echo "DEterminer is An"
+	echo "Determiner is An"
 	Output_Type=3
 	fi
 
